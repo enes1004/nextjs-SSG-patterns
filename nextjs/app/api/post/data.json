@@ -1,0 +1,512 @@
+[
+    {
+      "id": 1,
+      "title": "Quia aspernatur aspernatur ut aspernatur.",
+      "content": "Qui dolorem expedita facere aut sit quia error. Enim sit aut sequi sint. Sit eligendi corrupti ea delectus.",
+      "user_id": 1,
+      "created_at": "2023-08-26T14:15:24.000000Z",
+      "updated_at": "2023-08-26T14:15:24.000000Z",
+      "author": "Luella Pfeffer",
+      "user": {
+        "id": 1,
+        "name": "Luella Pfeffer",
+        "email": "rozella95@example.org",
+        "email_verified_at": "2023-08-26T14:15:24.000000Z",
+        "created_at": "2023-08-26T14:15:24.000000Z",
+        "updated_at": "2023-08-26T14:15:24.000000Z"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Qui voluptas velit eaque non dolor distinctio.",
+      "content": "Dolorem non laboriosam molestiae autem. Ut neque eveniet iste est saepe accusamus cum dolores.",
+      "user_id": 1,
+      "created_at": "2023-08-26T14:15:24.000000Z",
+      "updated_at": "2023-08-26T14:15:24.000000Z",
+      "author": "Luella Pfeffer",
+      "user": {
+        "id": 1,
+        "name": "Luella Pfeffer",
+        "email": "rozella95@example.org",
+        "email_verified_at": "2023-08-26T14:15:24.000000Z",
+        "created_at": "2023-08-26T14:15:24.000000Z",
+        "updated_at": "2023-08-26T14:15:24.000000Z"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Repellat qui quod quos blanditiis libero numquam quam.",
+      "content": "Sed vel minus et facere doloribus voluptatem repellat. Doloribus enim ratione minus ipsa. Et ea in molestias omnis iure facilis. Voluptas numquam quo impedit totam.",
+      "user_id": 1,
+      "created_at": "2023-08-26T14:15:24.000000Z",
+      "updated_at": "2023-08-26T14:15:24.000000Z",
+      "author": "Luella Pfeffer",
+      "user": {
+        "id": 1,
+        "name": "Luella Pfeffer",
+        "email": "rozella95@example.org",
+        "email_verified_at": "2023-08-26T14:15:24.000000Z",
+        "created_at": "2023-08-26T14:15:24.000000Z",
+        "updated_at": "2023-08-26T14:15:24.000000Z"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Qui perspiciatis quis quasi placeat nisi qui nulla.",
+      "content": "Quisquam et ipsum ullam aliquid adipisci enim. Rerum sint vel sint nesciunt. Id fugiat voluptas sit. Laboriosam consectetur maxime inventore accusamus voluptate praesentium et.",
+      "user_id": 2,
+      "created_at": "2023-08-26T14:15:24.000000Z",
+      "updated_at": "2023-08-26T14:15:24.000000Z",
+      "author": "Dr. Nico Osinski",
+      "user": {
+        "id": 2,
+        "name": "Dr. Nico Osinski",
+        "email": "aufderhar.kaleb@example.com",
+        "email_verified_at": "2023-08-26T14:15:24.000000Z",
+        "created_at": "2023-08-26T14:15:24.000000Z",
+        "updated_at": "2023-08-26T14:15:24.000000Z"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Labore in a ut quia.",
+      "content": "Ipsa aut aliquam quibusdam veniam neque nulla. Occaecati officia minima qui culpa. Sapiente accusantium ipsum aut consequuntur quod sit. Quasi ad sequi facilis rem neque beatae nam laudantium.",
+      "user_id": 2,
+      "created_at": "2023-08-26T14:15:24.000000Z",
+      "updated_at": "2023-08-26T14:15:24.000000Z",
+      "author": "Dr. Nico Osinski",
+      "user": {
+        "id": 2,
+        "name": "Dr. Nico Osinski",
+        "email": "aufderhar.kaleb@example.com",
+        "email_verified_at": "2023-08-26T14:15:24.000000Z",
+        "created_at": "2023-08-26T14:15:24.000000Z",
+        "updated_at": "2023-08-26T14:15:24.000000Z"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Quaerat accusamus qui repellat enim temporibus corporis.",
+      "content": "Nam quas qui temporibus odio. Porro soluta doloremque laborum dolorem fugiat odio. Esse tempora aliquid et voluptatem et suscipit.",
+      "user_id": 2,
+      "created_at": "2023-08-26T14:15:24.000000Z",
+      "updated_at": "2023-08-26T14:15:24.000000Z",
+      "author": "Dr. Nico Osinski",
+      "user": {
+        "id": 2,
+        "name": "Dr. Nico Osinski",
+        "email": "aufderhar.kaleb@example.com",
+        "email_verified_at": "2023-08-26T14:15:24.000000Z",
+        "created_at": "2023-08-26T14:15:24.000000Z",
+        "updated_at": "2023-08-26T14:15:24.000000Z"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Omnis delectus quas voluptates corporis ex.",
+      "content": "Odit sapiente laudantium quidem et. Commodi et excepturi voluptatem iste iste modi labore consequuntur. Deserunt architecto odit voluptatum est et sint. Non perspiciatis rerum perferendis. Velit iure aliquid nihil.",
+      "user_id": 3,
+      "created_at": "2023-08-26T14:15:24.000000Z",
+      "updated_at": "2023-08-26T14:15:24.000000Z",
+      "author": "Marisa Mohr",
+      "user": {
+        "id": 3,
+        "name": "Marisa Mohr",
+        "email": "oreilly.lina@example.com",
+        "email_verified_at": "2023-08-26T14:15:24.000000Z",
+        "created_at": "2023-08-26T14:15:24.000000Z",
+        "updated_at": "2023-08-26T14:15:24.000000Z"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Unde quibusdam tempore voluptas minus odio est nobis voluptas.",
+      "content": "Aut nulla cupiditate nihil dolores voluptate. Sed adipisci atque aperiam consequuntur rerum consequatur. Nihil modi excepturi aut ea. Commodi similique facere officiis ut quo. Voluptatibus distinctio doloribus eum sit et.",
+      "user_id": 3,
+      "created_at": "2023-08-26T14:15:24.000000Z",
+      "updated_at": "2023-08-26T14:15:24.000000Z",
+      "author": "Marisa Mohr",
+      "user": {
+        "id": 3,
+        "name": "Marisa Mohr",
+        "email": "oreilly.lina@example.com",
+        "email_verified_at": "2023-08-26T14:15:24.000000Z",
+        "created_at": "2023-08-26T14:15:24.000000Z",
+        "updated_at": "2023-08-26T14:15:24.000000Z"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Itaque sapiente quam cupiditate architecto quis.",
+      "content": "Nesciunt labore excepturi ratione aut eos deleniti consequatur aut. Et unde quia laborum qui. Omnis et qui ad dolores consequatur. Quisquam ullam quod quas voluptas est similique esse.",
+      "user_id": 3,
+      "created_at": "2023-08-26T14:15:24.000000Z",
+      "updated_at": "2023-08-26T14:15:24.000000Z",
+      "author": "Marisa Mohr",
+      "user": {
+        "id": 3,
+        "name": "Marisa Mohr",
+        "email": "oreilly.lina@example.com",
+        "email_verified_at": "2023-08-26T14:15:24.000000Z",
+        "created_at": "2023-08-26T14:15:24.000000Z",
+        "updated_at": "2023-08-26T14:15:24.000000Z"
+      }
+    },
+    {
+      "id": 10,
+      "title": "Inventore sint voluptatem non beatae accusamus ut.",
+      "content": "Voluptates enim reiciendis dolorem eum. Itaque provident accusantium rerum harum. Et recusandae exercitationem vel vel nesciunt ullam.",
+      "user_id": 4,
+      "created_at": "2023-08-26T14:15:24.000000Z",
+      "updated_at": "2023-08-26T14:15:24.000000Z",
+      "author": "Earlene Monahan",
+      "user": {
+        "id": 4,
+        "name": "Earlene Monahan",
+        "email": "barbara07@example.org",
+        "email_verified_at": "2023-08-26T14:15:24.000000Z",
+        "created_at": "2023-08-26T14:15:24.000000Z",
+        "updated_at": "2023-08-26T14:15:24.000000Z"
+      }
+    },
+    {
+      "id": 11,
+      "title": "Magni fugit necessitatibus optio enim tenetur quo.",
+      "content": "Voluptas corporis sunt vel in. Doloremque doloribus adipisci deleniti sed totam est. Dolores fugiat vel facere voluptatem et voluptatum. Ea quisquam et quam qui sed enim.",
+      "user_id": 4,
+      "created_at": "2023-08-26T14:15:24.000000Z",
+      "updated_at": "2023-08-26T14:15:24.000000Z",
+      "author": "Earlene Monahan",
+      "user": {
+        "id": 4,
+        "name": "Earlene Monahan",
+        "email": "barbara07@example.org",
+        "email_verified_at": "2023-08-26T14:15:24.000000Z",
+        "created_at": "2023-08-26T14:15:24.000000Z",
+        "updated_at": "2023-08-26T14:15:24.000000Z"
+      }
+    },
+    {
+      "id": 12,
+      "title": "Quam rerum non et in dolor quas.",
+      "content": "Tempora ducimus rerum veritatis quae qui ut voluptates. Neque non placeat vel reiciendis et vel. Possimus ut enim et vero laudantium et illo.",
+      "user_id": 4,
+      "created_at": "2023-08-26T14:15:24.000000Z",
+      "updated_at": "2023-08-26T14:15:24.000000Z",
+      "author": "Earlene Monahan",
+      "user": {
+        "id": 4,
+        "name": "Earlene Monahan",
+        "email": "barbara07@example.org",
+        "email_verified_at": "2023-08-26T14:15:24.000000Z",
+        "created_at": "2023-08-26T14:15:24.000000Z",
+        "updated_at": "2023-08-26T14:15:24.000000Z"
+      }
+    },
+    {
+      "id": 13,
+      "title": "Earum sapiente quae consequatur.",
+      "content": "Explicabo soluta ut nemo repudiandae veritatis animi. Numquam maiores sint neque voluptatem hic id debitis. Quisquam id dicta deserunt voluptatibus numquam nihil rerum. Est dolorem sit distinctio quis molestias doloribus.",
+      "user_id": 5,
+      "created_at": "2023-08-26T14:15:24.000000Z",
+      "updated_at": "2023-08-26T14:15:24.000000Z",
+      "author": "Casandra Abshire",
+      "user": {
+        "id": 5,
+        "name": "Casandra Abshire",
+        "email": "kvandervort@example.org",
+        "email_verified_at": "2023-08-26T14:15:24.000000Z",
+        "created_at": "2023-08-26T14:15:24.000000Z",
+        "updated_at": "2023-08-26T14:15:24.000000Z"
+      }
+    },
+    {
+      "id": 14,
+      "title": "Consequatur eaque ipsam iste temporibus eius sequi aut consequuntur.",
+      "content": "Vel dolor maxime illum et laboriosam mollitia. Officia velit quia in expedita aut ut ut repellendus.",
+      "user_id": 5,
+      "created_at": "2023-08-26T14:15:24.000000Z",
+      "updated_at": "2023-08-26T14:15:24.000000Z",
+      "author": "Casandra Abshire",
+      "user": {
+        "id": 5,
+        "name": "Casandra Abshire",
+        "email": "kvandervort@example.org",
+        "email_verified_at": "2023-08-26T14:15:24.000000Z",
+        "created_at": "2023-08-26T14:15:24.000000Z",
+        "updated_at": "2023-08-26T14:15:24.000000Z"
+      }
+    },
+    {
+      "id": 15,
+      "title": "Itaque ducimus omnis accusamus quis.",
+      "content": "Et molestias commodi suscipit eaque illum similique necessitatibus consequatur. Consequatur omnis fugiat architecto maiores laborum. Quo id esse nobis sint vitae repellendus maxime. Exercitationem officia incidunt molestiae aspernatur.",
+      "user_id": 5,
+      "created_at": "2023-08-26T14:15:24.000000Z",
+      "updated_at": "2023-08-26T14:15:24.000000Z",
+      "author": "Casandra Abshire",
+      "user": {
+        "id": 5,
+        "name": "Casandra Abshire",
+        "email": "kvandervort@example.org",
+        "email_verified_at": "2023-08-26T14:15:24.000000Z",
+        "created_at": "2023-08-26T14:15:24.000000Z",
+        "updated_at": "2023-08-26T14:15:24.000000Z"
+      }
+    },
+    {
+      "id": 16,
+      "title": "Quia explicabo qui delectus esse excepturi consequatur.",
+      "content": "Aut occaecati suscipit amet ex saepe aut beatae. Ipsam esse odio ducimus suscipit delectus qui occaecati. Omnis modi sint voluptas corrupti. Deleniti quia molestiae non illo molestiae et.",
+      "user_id": 6,
+      "created_at": "2023-08-26T14:15:24.000000Z",
+      "updated_at": "2023-08-26T14:15:24.000000Z",
+      "author": "Lemuel Schimmel",
+      "user": {
+        "id": 6,
+        "name": "Lemuel Schimmel",
+        "email": "rcrooks@example.com",
+        "email_verified_at": "2023-08-26T14:15:24.000000Z",
+        "created_at": "2023-08-26T14:15:24.000000Z",
+        "updated_at": "2023-08-26T14:15:24.000000Z"
+      }
+    },
+    {
+      "id": 17,
+      "title": "Vero ab consequuntur corrupti in.",
+      "content": "In dignissimos sit consectetur accusamus et. Labore dicta ratione nobis quo voluptatem in eius. Nulla explicabo est aut et cumque dolorem et aliquam. Quia sint ipsum adipisci eveniet corporis saepe. Non ipsum illum corrupti est voluptatum.",
+      "user_id": 6,
+      "created_at": "2023-08-26T14:15:24.000000Z",
+      "updated_at": "2023-08-26T14:15:24.000000Z",
+      "author": "Lemuel Schimmel",
+      "user": {
+        "id": 6,
+        "name": "Lemuel Schimmel",
+        "email": "rcrooks@example.com",
+        "email_verified_at": "2023-08-26T14:15:24.000000Z",
+        "created_at": "2023-08-26T14:15:24.000000Z",
+        "updated_at": "2023-08-26T14:15:24.000000Z"
+      }
+    },
+    {
+      "id": 18,
+      "title": "Nostrum est et non praesentium ea nesciunt omnis.",
+      "content": "Eum autem in repellendus voluptatem ducimus dolor animi. Totam quasi aliquid omnis rerum molestiae. Consequatur ex inventore aut.",
+      "user_id": 6,
+      "created_at": "2023-08-26T14:15:24.000000Z",
+      "updated_at": "2023-08-26T14:15:24.000000Z",
+      "author": "Lemuel Schimmel",
+      "user": {
+        "id": 6,
+        "name": "Lemuel Schimmel",
+        "email": "rcrooks@example.com",
+        "email_verified_at": "2023-08-26T14:15:24.000000Z",
+        "created_at": "2023-08-26T14:15:24.000000Z",
+        "updated_at": "2023-08-26T14:15:24.000000Z"
+      }
+    },
+    {
+      "id": 19,
+      "title": "Officia mollitia fugiat vero harum omnis voluptates.",
+      "content": "Neque aut unde aut et. Id voluptatem a at et ut rerum tenetur itaque. Distinctio dolor quod ad consequuntur.",
+      "user_id": 7,
+      "created_at": "2023-08-26T14:15:24.000000Z",
+      "updated_at": "2023-08-26T14:15:24.000000Z",
+      "author": "Raina Nienow",
+      "user": {
+        "id": 7,
+        "name": "Raina Nienow",
+        "email": "qokuneva@example.org",
+        "email_verified_at": "2023-08-26T14:15:24.000000Z",
+        "created_at": "2023-08-26T14:15:24.000000Z",
+        "updated_at": "2023-08-26T14:15:24.000000Z"
+      }
+    },
+    {
+      "id": 20,
+      "title": "Dolores ipsum quasi voluptas consectetur necessitatibus.",
+      "content": "Totam quod accusantium explicabo repellendus facere odio laboriosam quibusdam. Ullam officiis voluptas non maiores non eum. Dolorum earum explicabo consequatur autem et a iste rerum. Quidem sequi labore vel occaecati molestiae est natus.",
+      "user_id": 7,
+      "created_at": "2023-08-26T14:15:24.000000Z",
+      "updated_at": "2023-08-26T14:15:24.000000Z",
+      "author": "Raina Nienow",
+      "user": {
+        "id": 7,
+        "name": "Raina Nienow",
+        "email": "qokuneva@example.org",
+        "email_verified_at": "2023-08-26T14:15:24.000000Z",
+        "created_at": "2023-08-26T14:15:24.000000Z",
+        "updated_at": "2023-08-26T14:15:24.000000Z"
+      }
+    },
+    {
+      "id": 21,
+      "title": "Ut sed accusamus et id qui neque ipsum fuga.",
+      "content": "Et distinctio ipsa hic similique cum. Est non harum quia eos reprehenderit. Dolorum amet quo quo nisi quia reprehenderit consequatur modi.",
+      "user_id": 7,
+      "created_at": "2023-08-26T14:15:24.000000Z",
+      "updated_at": "2023-08-26T14:15:24.000000Z",
+      "author": "Raina Nienow",
+      "user": {
+        "id": 7,
+        "name": "Raina Nienow",
+        "email": "qokuneva@example.org",
+        "email_verified_at": "2023-08-26T14:15:24.000000Z",
+        "created_at": "2023-08-26T14:15:24.000000Z",
+        "updated_at": "2023-08-26T14:15:24.000000Z"
+      }
+    },
+    {
+      "id": 22,
+      "title": "Enim alias tempora sed soluta sint voluptas aspernatur.",
+      "content": "Sint rerum enim hic nihil atque. Voluptate in similique similique qui et sit nostrum laborum.",
+      "user_id": 8,
+      "created_at": "2023-08-26T14:15:24.000000Z",
+      "updated_at": "2023-08-26T14:15:24.000000Z",
+      "author": "Buford Schulist DVM",
+      "user": {
+        "id": 8,
+        "name": "Buford Schulist DVM",
+        "email": "jaren71@example.com",
+        "email_verified_at": "2023-08-26T14:15:24.000000Z",
+        "created_at": "2023-08-26T14:15:24.000000Z",
+        "updated_at": "2023-08-26T14:15:24.000000Z"
+      }
+    },
+    {
+      "id": 23,
+      "title": "Harum praesentium nesciunt nisi iste id dolore.",
+      "content": "Dolores expedita consequatur at tempore. Amet odit recusandae iure maxime cumque tempora aliquid. Delectus quo exercitationem sapiente non. Itaque nostrum et fugit labore atque.",
+      "user_id": 8,
+      "created_at": "2023-08-26T14:15:24.000000Z",
+      "updated_at": "2023-08-26T14:15:24.000000Z",
+      "author": "Buford Schulist DVM",
+      "user": {
+        "id": 8,
+        "name": "Buford Schulist DVM",
+        "email": "jaren71@example.com",
+        "email_verified_at": "2023-08-26T14:15:24.000000Z",
+        "created_at": "2023-08-26T14:15:24.000000Z",
+        "updated_at": "2023-08-26T14:15:24.000000Z"
+      }
+    },
+    {
+      "id": 24,
+      "title": "Dicta iusto aut ut ea ut blanditiis doloribus quo.",
+      "content": "Numquam sint qui dolore veritatis. Deleniti ipsam et quaerat molestiae. Quia vel et consequuntur facere et illum quaerat. Animi qui natus impedit eum voluptatem nostrum. Nihil molestiae repellendus quasi aut aut.",
+      "user_id": 8,
+      "created_at": "2023-08-26T14:15:24.000000Z",
+      "updated_at": "2023-08-26T14:15:24.000000Z",
+      "author": "Buford Schulist DVM",
+      "user": {
+        "id": 8,
+        "name": "Buford Schulist DVM",
+        "email": "jaren71@example.com",
+        "email_verified_at": "2023-08-26T14:15:24.000000Z",
+        "created_at": "2023-08-26T14:15:24.000000Z",
+        "updated_at": "2023-08-26T14:15:24.000000Z"
+      }
+    },
+    {
+      "id": 25,
+      "title": "Voluptates aperiam omnis rerum enim.",
+      "content": "Eligendi qui voluptas enim. Rerum ab quidem quis consequuntur magnam rerum et. Voluptas nihil rem eaque.",
+      "user_id": 9,
+      "created_at": "2023-08-26T14:15:24.000000Z",
+      "updated_at": "2023-08-26T14:15:24.000000Z",
+      "author": "Dr. Drake Gutkowski DDS",
+      "user": {
+        "id": 9,
+        "name": "Dr. Drake Gutkowski DDS",
+        "email": "schneider.amos@example.org",
+        "email_verified_at": "2023-08-26T14:15:24.000000Z",
+        "created_at": "2023-08-26T14:15:24.000000Z",
+        "updated_at": "2023-08-26T14:15:24.000000Z"
+      }
+    },
+    {
+      "id": 26,
+      "title": "Quam aut est exercitationem velit.",
+      "content": "Qui doloremque quo quisquam ut et. Autem molestiae officia quo voluptatum unde voluptatibus id. Ut praesentium maxime aliquid temporibus. Repellat natus tempora facilis non et explicabo.",
+      "user_id": 9,
+      "created_at": "2023-08-26T14:15:24.000000Z",
+      "updated_at": "2023-08-26T14:15:24.000000Z",
+      "author": "Dr. Drake Gutkowski DDS",
+      "user": {
+        "id": 9,
+        "name": "Dr. Drake Gutkowski DDS",
+        "email": "schneider.amos@example.org",
+        "email_verified_at": "2023-08-26T14:15:24.000000Z",
+        "created_at": "2023-08-26T14:15:24.000000Z",
+        "updated_at": "2023-08-26T14:15:24.000000Z"
+      }
+    },
+    {
+      "id": 27,
+      "title": "Sequi et assumenda dolorum.",
+      "content": "Eius quis eius incidunt magnam rem commodi. Culpa ea consequuntur odio doloremque. A magnam ducimus odit nihil ut.",
+      "user_id": 9,
+      "created_at": "2023-08-26T14:15:24.000000Z",
+      "updated_at": "2023-08-26T14:15:24.000000Z",
+      "author": "Dr. Drake Gutkowski DDS",
+      "user": {
+        "id": 9,
+        "name": "Dr. Drake Gutkowski DDS",
+        "email": "schneider.amos@example.org",
+        "email_verified_at": "2023-08-26T14:15:24.000000Z",
+        "created_at": "2023-08-26T14:15:24.000000Z",
+        "updated_at": "2023-08-26T14:15:24.000000Z"
+      }
+    },
+    {
+      "id": 28,
+      "title": "Qui iure quisquam quia dignissimos ullam eveniet.",
+      "content": "Atque rerum est mollitia aut asperiores. At quae laborum ea et vel. Praesentium aut et facere ut enim.",
+      "user_id": 10,
+      "created_at": "2023-08-26T14:15:24.000000Z",
+      "updated_at": "2023-08-26T14:15:24.000000Z",
+      "author": "Prof. Gregg Waters",
+      "user": {
+        "id": 10,
+        "name": "Prof. Gregg Waters",
+        "email": "zander.rippin@example.org",
+        "email_verified_at": "2023-08-26T14:15:24.000000Z",
+        "created_at": "2023-08-26T14:15:24.000000Z",
+        "updated_at": "2023-08-26T14:15:24.000000Z"
+      }
+    },
+    {
+      "id": 29,
+      "title": "Quis aut delectus id et labore tenetur.",
+      "content": "Aut dignissimos esse earum aut doloribus eum sit. Sit quasi et ipsa architecto enim.",
+      "user_id": 10,
+      "created_at": "2023-08-26T14:15:24.000000Z",
+      "updated_at": "2023-08-26T14:15:24.000000Z",
+      "author": "Prof. Gregg Waters",
+      "user": {
+        "id": 10,
+        "name": "Prof. Gregg Waters",
+        "email": "zander.rippin@example.org",
+        "email_verified_at": "2023-08-26T14:15:24.000000Z",
+        "created_at": "2023-08-26T14:15:24.000000Z",
+        "updated_at": "2023-08-26T14:15:24.000000Z"
+      }
+    },
+    {
+      "id": 30,
+      "title": "Ipsa placeat quos molestias facilis nobis porro.",
+      "content": "Neque eaque et aliquam accusantium est. Vero corporis temporibus perspiciatis dolorem harum. Voluptatem at repellat maiores qui aut. Quasi ut quia tempora voluptatem quia quo.",
+      "user_id": 10,
+      "created_at": "2023-08-26T14:15:24.000000Z",
+      "updated_at": "2023-08-26T14:15:24.000000Z",
+      "author": "Prof. Gregg Waters",
+      "user": {
+        "id": 10,
+        "name": "Prof. Gregg Waters",
+        "email": "zander.rippin@example.org",
+        "email_verified_at": "2023-08-26T14:15:24.000000Z",
+        "created_at": "2023-08-26T14:15:24.000000Z",
+        "updated_at": "2023-08-26T14:15:24.000000Z"
+      }
+    }
+  ]

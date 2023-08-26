@@ -7,8 +7,8 @@ type PostProps = {
   id: number;
 };
 
-export function generateStaticParams(){
-    return [];
+export function generateStaticParams() {
+  return [{ id: 1 }];
 }
 
 export default async function Post({
@@ -16,7 +16,9 @@ export default async function Post({
 }: {
   params: { id: number };
 }) {
-  const data: PostProps = await fetch(`${LARAVEL_API}/api/post/${id}`).then(res=>res.json());
+  const data: PostProps = await fetch(`${LARAVEL_API}/api/post/${id}`).then(
+    (res) => res.json(),
+  );
   const { title, author, content } = data;
   return (
     <>

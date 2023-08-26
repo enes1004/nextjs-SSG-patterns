@@ -1,18 +1,18 @@
-.navi{
-    position:fixed;
-    bottom: 0;
-    right: 0;
-    left: 0;
-} 
-.flexBox{    
-    max-height: 200px;
-    overflow: scroll;
-    display:flex;
-    flex-wrap: wrap;
+.navi {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+.flexBox {
+  height: 200px;
+  overflow: scroll;
+  display: flex;
+  flex-wrap: wrap;
 }
 
-.naviItem{
-   width: 25%;
-   border:solid 1px;
-   padding: 20px;
+.naviItem {
+  width: 25%;
+  border: solid 1px;
+  padding: 20px;
 }

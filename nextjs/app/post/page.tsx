@@ -1,4 +1,4 @@
-'use client'
+"use client";
 export default function Home() {
-    return <p>ポストホームページです</p>;
+  return <p>ポストホームページです</p>;
 }

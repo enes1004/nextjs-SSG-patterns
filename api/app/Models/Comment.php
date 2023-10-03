@@ -9,6 +9,6 @@ class Comment extends Model
 {
     use HasFactory;
     public function user(){
-        $this->belongsTo(USer::class);
+        return $this->belongsTo(USer::class);
     }
 }

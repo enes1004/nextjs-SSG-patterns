@@ -22,6 +22,8 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
 
 
 Route::resource("post",PostController::class);
+Route::resource("comment",CommentController::class);
+
 Route::group(["prefix"=>"dummy_auth"],function(){
     Route::get('post/{post?}',function(Post $post=null){
         if($post->id<10){return ["ok"=>false,"reason"=>"old content only viewable to admin"];}

@@ -15,7 +15,7 @@ class CommentController extends Controller
      */
     public function index()
     {
-        return response()->json(Comment::with('user'));
+        return response()->json(Comment::with('user')->get());
     }
 
     // /**
@@ -49,7 +49,7 @@ class CommentController extends Controller
      */
     public function show(Comment $comment)
     {
-        return response()->json($comment->append("author"));
+        return response()->json($comment);
     }
 
     // /**
